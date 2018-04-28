@@ -150,6 +150,11 @@ namespace ExerciciosForVetor
 
             }
 
+            for (int i = 0; i < 20; i++)
+            {
+
+            }
+
             Console.WriteLine("Quantidade Consoantes: " + somaConsoante);
             Console.WriteLine("Quantidade de Vogais: " + somaVogais);
                        
