@@ -17,3 +17,10 @@ C:\Users\Junior Zeh\Documents\GitHub\lista-for-vetor\ExerciciosForVetor\obj\Debu
 C:\Users\Junior Zeh\Documents\GitHub\lista-for-vetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.csproj.CoreCompileInputs.cache
 C:\Users\Junior Zeh\Documents\GitHub\lista-for-vetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.exe
 C:\Users\Junior Zeh\Documents\GitHub\lista-for-vetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.pdb
+C:\Users\Junior Zeh\Documents\GitHub\exercicios-for-vetor\bin\Debug\ExerciciosForVetor.exe.config
+C:\Users\Junior Zeh\Documents\GitHub\exercicios-for-vetor\bin\Debug\ExerciciosForVetor.exe
+C:\Users\Junior Zeh\Documents\GitHub\exercicios-for-vetor\bin\Debug\ExerciciosForVetor.pdb
+C:\Users\Junior Zeh\Documents\GitHub\exercicios-for-vetor\obj\Debug\ExerciciosForVetor.csprojResolveAssemblyReference.cache
+C:\Users\Junior Zeh\Documents\GitHub\exercicios-for-vetor\obj\Debug\ExerciciosForVetor.csproj.CoreCompileInputs.cache
+C:\Users\Junior Zeh\Documents\GitHub\exercicios-for-vetor\obj\Debug\ExerciciosForVetor.exe
+C:\Users\Junior Zeh\Documents\GitHub\exercicios-for-vetor\obj\Debug\ExerciciosForVetor.pdb
