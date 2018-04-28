@@ -1,0 +1,19 @@
+C:\Users\104895\Documents\GitHub\ExerciciosForVetor\ExerciciosForVetor\bin\Debug\ExerciciosForVetor.exe.config
+C:\Users\104895\Documents\GitHub\ExerciciosForVetor\ExerciciosForVetor\bin\Debug\ExerciciosForVetor.exe
+C:\Users\104895\Documents\GitHub\ExerciciosForVetor\ExerciciosForVetor\bin\Debug\ExerciciosForVetor.pdb
+C:\Users\104895\Documents\GitHub\ExerciciosForVetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.csprojResolveAssemblyReference.cache
+C:\Users\104895\Documents\GitHub\ExerciciosForVetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.exe
+C:\Users\104895\Documents\GitHub\ExerciciosForVetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.pdb
+C:\Users\104895\Documents\GitHub\ExerciciosForVetor\lista-for-vetor\ExerciciosForVetor\bin\Debug\ExerciciosForVetor.exe.config
+C:\Users\104895\Documents\GitHub\ExerciciosForVetor\lista-for-vetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.exe
+C:\Users\104895\Documents\GitHub\ExerciciosForVetor\lista-for-vetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.pdb
+C:\Users\104895\Documents\GitHub\ExerciciosForVetor\lista-for-vetor\ExerciciosForVetor\bin\Debug\ExerciciosForVetor.exe
+C:\Users\104895\Documents\GitHub\ExerciciosForVetor\lista-for-vetor\ExerciciosForVetor\bin\Debug\ExerciciosForVetor.pdb
+C:\Users\104895\Documents\GitHub\ExerciciosForVetor\lista-for-vetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.csprojResolveAssemblyReference.cache
+C:\Users\Junior Zeh\Documents\GitHub\lista-for-vetor\ExerciciosForVetor\bin\Debug\ExerciciosForVetor.exe.config
+C:\Users\Junior Zeh\Documents\GitHub\lista-for-vetor\ExerciciosForVetor\bin\Debug\ExerciciosForVetor.exe
+C:\Users\Junior Zeh\Documents\GitHub\lista-for-vetor\ExerciciosForVetor\bin\Debug\ExerciciosForVetor.pdb
+C:\Users\Junior Zeh\Documents\GitHub\lista-for-vetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.csprojResolveAssemblyReference.cache
+C:\Users\Junior Zeh\Documents\GitHub\lista-for-vetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.csproj.CoreCompileInputs.cache
+C:\Users\Junior Zeh\Documents\GitHub\lista-for-vetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.exe
+C:\Users\Junior Zeh\Documents\GitHub\lista-for-vetor\ExerciciosForVetor\obj\Debug\ExerciciosForVetor.pdb
