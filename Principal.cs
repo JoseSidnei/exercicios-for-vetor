@@ -15,11 +15,12 @@ namespace ExerciciosForVetor
             // new Exercicio03();
             // new Exercicio04();
             // new Exercicio05();
-             new Exercicio06();
+            // new Exercicio06();
             // new Exercicio07();
             // new Exercicio08();
             // new Exercicio09();
             // new Exercicio10();
+             new Exercicio11();
         }
     }
 }

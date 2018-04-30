@@ -62,17 +62,10 @@ namespace ExerciciosForVetor
                 {
                     quantidadeLetraS = quantidadeLetraS + 1;
                 }
-                
-                string sobrenome = nomes[i].Substring(10, 15);
-                if (sobrenome == "Silva")
-                {
-                    quantidadeSilva = quantidadeSilva +1;
-                }
-
-                
-                
-                
+               
             }
+
+            
 
             Console.WriteLine();
             Console.WriteLine("Maior nome: " + maiorNome);
