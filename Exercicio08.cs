@@ -62,21 +62,18 @@ namespace ExerciciosForVetor
                 }
                 else if (numeros[i] % 2 == 0)
                 {
-                    Console.Write("Vetor Par: ");
+                    Console.Write("Vetor Par ");
                     Console.Write(numeros[i] + ", ");
                 }
                 else if (numeros[i] % 2 != 0)
                 {
                     Console.WriteLine();
-                    Console.Write("Vetor ìmpar: ");
+                    Console.Write("Vetor ìmpar ");
                     Console.Write(numeros[i] + ", ");
                 }
             }
-
             Console.WriteLine();
-
-            
-
+           
         }
     }
 }
