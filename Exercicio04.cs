@@ -44,7 +44,7 @@ namespace ExerciciosForVetor
             Console.WriteLine("Tamanho de todas as camisas ");
             Console.WriteLine();
             
-            int quantidadeAtual = 0;
+            
             double somaTamanhosPP = 0, somaTamanhosP = 0, somaTamanhosM = 0, somaTamanhosG = 0,
                     somaTamanhosGG = 0, somaTamanhosXG = 0, somaTamanhosXGG = 0;
             for (int i = 0; i < tamanhos.Length; i++)
